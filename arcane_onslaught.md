@@ -1,6 +1,7 @@
 ## Arcane Onslaught
 
 Unity game, autumn 2020
+
 Emma Kemppainen, programmer
 
 ### Overview
