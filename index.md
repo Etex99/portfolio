@@ -10,7 +10,7 @@ Below is a timeline of my most notable projects.
 
 <img class="logo" src="./images/mieliala_kysely_logo.png">
 
-[Mieliala kysely (Anti-bullying App) | Mobile App Prototype | Microsoft Xamarin Platform](https://etex99.github.io/portfolio/mieliala_kysely)
+[Mieliala kysely (Anti-bullying App) • Mobile App Prototype • Microsoft Xamarin Platform](https://etex99.github.io/portfolio/mieliala_kysely)
 
 <div style="clear:both;"></div>
 
@@ -18,6 +18,6 @@ Below is a timeline of my most notable projects.
 
 <img class="logo" src="./images/arcane_onslaught_logo.png">
 
-[Arcane Onslaught | Game Prototype | Unity3D Game Engine](https://etex99.github.io/portfolio/arcane_onslaught)
+[Arcane Onslaught • Game Prototype • Unity3D Game Engine](https://etex99.github.io/portfolio/arcane_onslaught)
 
 <div style="clear:both;"></div>
