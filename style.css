@@ -1,0 +1,8 @@
+.logo {
+    float:left;
+    margin-bottom:16px;
+    margin-right:16px;
+    box-shadow: 4px 8px 8px #111;
+    width: 100px;
+    background-color: #222;
+}
