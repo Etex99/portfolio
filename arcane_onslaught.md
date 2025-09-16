@@ -40,7 +40,6 @@ Other tasks:
 
 ## Technologies
 
-Used tech in short:
 * Unity3D Game Engine
 * C#
 * Visual Studio
@@ -55,7 +54,7 @@ I joined the course and the development project with the premise of gaining expe
 
 Working in the team was good fun and frustrating at the same time.
 
-What was most enjoyable was the ability to rely on a multi-disciplinary team. My own personal projects are very much hindered by my ability to create assets such as graphics and sound at this time. Many of my teammates were also well-spirited and I much enjoyed our lunch-time banter together. My personal productivity was high and I had a lot of freedom in my own area of expertise.
+What was most rewarding was the ability to rely on a multi-disciplinary team. My own personal projects are very much hindered by my ability to create assets such as graphics and sound at this time. Many of my teammates were also well-spirited and I much enjoyed our lunch-time banter together. My personal productivity was high and I had a lot of freedom in my own area of expertise.
 
 However, the atmosphere was slightly chaotic due to the instructors at OGL relying information through our team leader who was still learning the ropes like anyone else in the establishment. Much of the external demands were insufficiently communicated to each team member resulting in unexpected crunch time.
 

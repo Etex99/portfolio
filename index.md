@@ -1,6 +1,6 @@
 <link rel="stylesheet" href="./style.css">
 
-Last updated: 1/3/2022 
+Last updated: 16/09/2025 
 
 >Welcome to my portfolio!
 
