@@ -12,11 +12,15 @@ Below is a timeline of my most notable projects.
 
 [Procrastinot - Mobile App Prototype - Flutter Framework](https://etex99.github.io/portfolio/procrastinot)
 
+<div style="clear:both;"></div>
+
 ### Spring 2024
 
 <img class="logo" src="./images/ms_project.png">
 
 [MS Project - Location-based AR Game prototype - Unity3D Game Engine](https://etex99.github.io/portfolio/ms_project)
+
+<div style="clear:both;"></div>
 
 ### Spring 2021
 
