@@ -14,8 +14,11 @@ The thesis was a solo effort and had no customer. The topic was chosen out of pe
 * Novel application design based on a three-stepped process for persuasive systems.
 * A functional software prototype.
 
+The associated thesis received excellent feedback and the highest grade (5) from the evaluation committee.
+
 View the open [repository on GitHub.](https://github.com/Etex99/procrastinot_prototype/tree/main)
 You can also read the user guide and installation instructions on [the dedicated GitHub pages.](https://etex99.github.io/procrastinot_prototype/)
+And lastly, you may read the finished thesis [on OuluREPO](https://urn.fi/URN:NBN:fi:oulu-202509195945)
 
 ## My Contribution
 
@@ -31,6 +34,8 @@ This was all me.
 * R language (prototype evaluation statistics)
 
 ## Reflection
+
+The feedback received from the thesis evaluation committee was very rewarding. My effort yielded me with a polished and examplary thesis: I was both systematic and rigorous in my work. This demonsterated a few things to me. Despite my lack of interest in academic work, I was able to apply scientific methods without cutting corners. I also found myself very capable of working with large amounts of information, and figuring out the bigger picture. 
 
 The most interesting topic in this project was persuasive systems design. In essence, carefully applying certain kind of software features which infuence the users behavior. This is a very relevant field of study in various health and lifestyle applications, but the ideas are applicable in almost any context. For instance, many of the template features to increase persuasiveness, promote overall usability of software and user engagement.
 
